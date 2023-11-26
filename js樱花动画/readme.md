@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/z-mio/blog@72b47ba691666507279921c96d8a2f701c55e039/js%E6%A8%B1%E8%8A%B1%E5%8A%A8%E7%94%BB/yinghua.js
